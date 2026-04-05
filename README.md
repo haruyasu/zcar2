@@ -2,42 +2,43 @@
 
 ![zcar2 image](image/zcar2.png)
 
-A nearly fully 3D-printed, 4WD RC drift car. 1:28 scale, fits 90mm (M) wheelbase MINI-Z shells*.
+ほぼ全パーツ3Dプリント製の4WD RCドリフトカー。1:28スケール、ホイールベース90mm（M）のMINI-Zシェルに対応\*。
 
-\*Note: The front section of the chassis is relatively tall and won't fit certain shells, such as the RX-7 FD. Verified compatible with the AE86 shell.
-Test drive: https://youtu.be/90DoZpYbfy4
+\*注意: シャシーのフロント部分が比較的高いため、RX-7 FDなど一部のシェルには適合しません。AE86シェルでの動作を確認済みです。
 
-U-joint closeup: https://youtu.be/g_EzM2HMQvg
+テスト走行: https://youtu.be/90DoZpYbfy4
 
+ユニバーサルジョイント クローズアップ: https://youtu.be/g_EzM2HMQvg
 
+このデザインにはプリント難易度の高いパーツが含まれています。挑戦する前にプリンターのキャリブレーションが十分であることを確認してください。
 
-Some parts in this design are quite challenging to print - make sure you have a well-calibrated printer before attempting.
+## 特徴
 
-Features:
-- Fully indepdendent sliding suspension
-- 4WD drivetrain with printed U-joints (no differentials)
-- Mid-mounted battery and motor - approx 50-50 weight distribution
-- Parallel steering geometry for drifting
-- Uses common M3 fasteners, locknuts everywhere
-- TPU printed tires
+- 4輪独立スライド式サスペンション
+- プリント製ユニバーサルジョイントによる4WD駆動（デフなし）
+- バッテリーとモーターをミッドマウント配置 — 前後重量配分は約50:50
+- ドリフト向けパラレルステアリングジオメトリー
+- 一般的なM3ネジ類を使用、すべてロックナット
+- TPUプリントタイヤ
 
-## Non-printed Parts
+## プリント以外の必要パーツ
 
-|  Part | Quantity   | Notes  |
-|---|---|---|
-|  M3x10mm button head screw | 8  |   |
-|  M3x8mm button head screw | 7 |   |
-|  M3x12mm button head screw | 1  |   |
-|  M3x18mm button head screw | 1  |   |
-|  M3 lock nut | 17 |   |
-| MR105 bearing | 8 |   |
-| 130 size brushed motor, 2s compatible | 1 |   |
-| GH-S37D 3.7g servo | 1 |  |
-| Compression spring, ~4mm OD, ~4mm length | 4 | Softer springs are better.  Springs from multicolor retractable pens work well here when cut to length. Ordinary pen springs are too stiff. |
-| Venom Fly 300mah 2S battery | 1 | |
-| Small brushed ESC, 2S compatible | 1 |
-| Small radio receiver | 1 | 2 channels or more. Flysky GR3E works if you remove its case. |
-| MINI-Z shell, M wheelbase | 1 | Tested with Kyosho MZQ101 AE86 shell |
+| パーツ                             | 数量 | 備考                                                                                                                         |
+| ---------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
+| M3x10mm ボタンヘッドスクリュー     | 8    |                                                                                                                              |
+| M3x8mm ボタンヘッドスクリュー      | 7    |                                                                                                                              |
+| M3x12mm ボタンヘッドスクリュー     | 1    |                                                                                                                              |
+| M3x18mm ボタンヘッドスクリュー     | 1    |                                                                                                                              |
+| M3 ロックナット                    | 17   |                                                                                                                              |
+| MR105 ベアリング                   | 8    |                                                                                                                              |
+| 130サイズ ブラシモーター（2S対応） | 1    |                                                                                                                              |
+| GH-S37D 3.7gサーボ                 | 1    |                                                                                                                              |
+| 圧縮バネ（外径約4mm、長さ約4mm）   | 4    | 柔らかいバネが望ましい。多色ボールペンのリフィル用バネを切って使うとちょうど良い。普通のボールペンのバネは硬すぎるので不可。 |
+| Venom Fly 300mAh 2Sバッテリー      | 1    |                                                                                                                              |
+| 小型ブラシESC（2S対応）            | 1    |                                                                                                                              |
+| 小型ラジオ受信機                   | 1    | 2チャンネル以上。Flysky GR3Eはケースを外せば使用可能。                                                                       |
+| MINI-Z シェル（Mホイールベース）   | 1    | 京商 MZQ101 AE86シェルで動作確認済み                                                                                         |
 
-## Assembly
-Todo
+## 組み立て
+
+準備中
