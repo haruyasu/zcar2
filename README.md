@@ -29,13 +29,13 @@
 | M3x8mm ボタンヘッドスクリュー      | 7    |                                                                                                                              |
 | M3x12mm ボタンヘッドスクリュー     | 1    |                                                                                                                              |
 | M3x18mm ボタンヘッドスクリュー     | 1    |                                                                                                                              |
-| M3 ロックナット                    | 17   |                                                                                                                              |
-| MR105 ベアリング                   | 8    |                                                                                                                              |
-| 130サイズ ブラシモーター（2S対応） | 1    |                                                                                                                              |
-| GH-S37D 3.7gサーボ                 | 1    |                                                                                                                              |
-| 圧縮バネ（外径約4mm、長さ約4mm）   | 4    | 柔らかいバネが望ましい。多色ボールペンのリフィル用バネを切って使うとちょうど良い。普通のボールペンのバネは硬すぎるので不可。 |
-| Venom Fly 300mAh 2Sバッテリー      | 1    |                                                                                                                              |
-| 小型ブラシESC（2S対応）            | 1    |                                                                                                                              |
+| M3 ロックナット                    | 17   | [uxcell M3x0.5mm ステンレス鋼304 六角ナット 50個入り](https://www.amazon.co.jp/dp/B07J4VZ7YY)を使用                          |
+| MR105 ベアリング                   | 8    | [MR105 ベアリング](https://www.amazon.co.jp/dp/B0DQPCZZHS)を使用                                                            |
+| 130サイズ ブラシモーター（2S対応） | 1    | [WLToys K989-06 130ブラシモーター](https://www.amazon.co.jp/dp/B0BNX3V277)を使用                                             |
+| GH-S37D 3.7gサーボ                 | 1    | [DIYmall GH-S37D 3.7g マイクロサーボ 4個セット](https://www.amazon.co.jp/dp/B0FFH4XWGQ)を使用                               |
+| 圧縮バネ（外径約4mm、長さ約4mm）   | 4    | 柔らかいバネが望ましい。[zmart 240個 15サイズ 圧縮スプリング詰め合わせキット](https://www.amazon.co.jp/dp/B0FL7DS1WW)を使用   |
+| Venom Fly 300mAh 2Sバッテリー      | 1    | [Kypom K6 7.4V 300mAh 30C/60C リポバッテリー](https://www.amazon.co.jp/dp/B0CQS8TDRB)を使用                                 |
+| 小型ブラシESC（2S対応）            | 1    | [GoolRC 20A ブラシモーター スピードコントローラー](https://www.amazon.co.jp/dp/B014RB6WS6)を使用                              |
 | 小型ラジオ受信機                   | 1    | 2チャンネル以上。Flysky GR3Eはケースを外せば使用可能。                                                                       |
 | MINI-Z シェル（Mホイールベース）   | 1    | 京商 MZQ101 AE86シェルで動作確認済み                                                                                         |
 
